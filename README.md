@@ -1,2 +1,3 @@
 # hello-world
-Just testing things out.
+
+Hey. I code things. Sometimes I actually do it well.
